@@ -27,7 +27,6 @@ This page contains my start up projects of data science and software development
 🚀 Projects
 * Student Mental Health project - written in SQL
 * BuddyOut -  used Wix, Twillio and Javascript
-* Unity 3D Game - used Unity, C#
 * PDDL for 6 tower of Hanoi - used PDDL
 * chatbot project - using python
 * working on - unity 3D game project using C# and unity
