@@ -25,7 +25,7 @@ This page contains my start up projects of data science and software development
 * Python, C, C++, C#, Unity, Java, SQL, Julia, Javascript, Matlab, MangoDB
 
 🚀 Projects
-* Student Mental Health project - written in SQL
+* BirthRate Analysis - Jupyter Notebook and Python
 * BuddyOut -  used Wix, Twillio and Javascript
 * PDDL for 6 tower of Hanoi - used PDDL
 * chatbot project - using python
