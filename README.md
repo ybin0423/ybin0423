@@ -26,6 +26,7 @@ This page contains my start up projects of data science and software development
 
 🚀 Projects
 * BirthRate Analysis - Jupyter Notebook and Python
+* Student Mental Health - SQL
 * BuddyOut -  used Wix, Twillio and Javascript
 * PDDL for 6 tower of Hanoi - used PDDL
 * chatbot project - using python
