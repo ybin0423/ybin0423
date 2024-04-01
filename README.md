@@ -22,7 +22,7 @@ This page contains my start up projects of data science and software development
 
 
 👩‍🎓 Languages
-* Python, C, C++, C#, Unity, Java, SQL, Julia, Javascript, Matlab, MangoDB
+* Python, C, C++, C#, Unity, Java, SQL, Julia, Javascript, Matlab, MongoDB, Android Studio
 
 🚀 Projects
 * BirthRate Analysis - Jupyter Notebook and Python
