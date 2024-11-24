@@ -22,7 +22,7 @@ This page contains my start up projects of data science and software development
 
 
 👩‍🎓 Languages
-* Python, C, C++, C#, Unity, Java, SQL, Julia, Javascript, Matlab, MongoDB, Android Studio
+* Python, C, C++, Java, SQL, Julia, Matlab, Javascript, MongoDB, Android Studio
 
 🚀 Projects
 * BirthRate Analysis - Jupyter Notebook and Python
@@ -30,7 +30,8 @@ This page contains my start up projects of data science and software development
 * BuddyOut -  used Wix, Twillio and Javascript
 * PDDL for 6 tower of Hanoi - used PDDL
 * chatbot project - using python
-* working on - unity 3D game project using C# and unity
+* Bitcoin Price Predictor using ML
+
 
 🌏 Contact info
 * Email: prongs0423@gmail.com
